@@ -1,0 +1,7 @@
+numpy==1.19.0
+pandas==1.0.5
+matplotlib==3.2.2
+plotly==4.9.0
+pycountry==20.7.3
+jupyterlab==2.1.5
+pycountry-convert==0.7.2
